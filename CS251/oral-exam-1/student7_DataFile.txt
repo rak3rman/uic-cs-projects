@@ -1,0 +1,27 @@
+(Artist | # of streams the song got)
+JustinBieber 2020462
+CardiB 1923090
+24kGoldn 1546138
+InternetMoney 1339823
+Drake 1281789
+PopSmoke 1184282
+DJKhaled 918763
+DaBaby 907703
+JackHarlow 838946
+JuiceWRLD 794937
+JuiceWRLD 791587
+ConanGray 785921	
+BTS 747390
+CardiB 1964316
+JustinBieber 1576604
+24kGoldn 1533575
+InternetMoney 1335195
+Drake 1306479
+PopSmoke 1189002
+DJKhaled 938308
+DaBaby 938038
+JackHarlow 831612
+JuiceWRLD 796649
+JuiceWRLD 777855
+TheWeeknd 731654
+HarryStyles 720638

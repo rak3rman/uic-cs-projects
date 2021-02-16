@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rak3rman/Documents/CLionProjects/CS141/project_04/parser.cpp
+iostream
+-
+istream
+-
+string
+-
+list
+-
+token.h
+/Users/rak3rman/Documents/CLionProjects/CS141/project_04/token.h
+parser.h
+/Users/rak3rman/Documents/CLionProjects/CS141/project_04/parser.h
+
+/Users/rak3rman/Documents/CLionProjects/CS141/project_04/parser.h
+iostream
+-
+istream
+-
+string
+-
+list
+-
+token.h
+/Users/rak3rman/Documents/CLionProjects/CS141/project_04/token.h
+
+/Users/rak3rman/Documents/CLionProjects/CS141/project_04/token.h
+iostream
+-
+istream
+-
+string
+-
+cctype
+-
+

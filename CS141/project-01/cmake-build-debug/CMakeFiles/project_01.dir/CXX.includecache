@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rak3rman/Documents/CLionProjects/project-01/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+
+/Users/rak3rman/Documents/CLionProjects/project-01/token.cpp
+iostream
+-
+fstream
+-
+string
+-
+cctype
+-
+
